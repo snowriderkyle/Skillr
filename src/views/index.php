@@ -58,6 +58,7 @@ Succesfully filled in information, continue to begin</div>';
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3">
 				<h1>Contact Information</h1>
+				<p>We don't save your info, this is solely for on your certificate!</p>
 				<?php  echo $result; ?>
 				<form method="post" role="form">
 					<div class="form-group">

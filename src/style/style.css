@@ -16,6 +16,8 @@
 	border:1px solid #fff;
 	border-radius: 0; 
 	transition: 0.3s;
+	background-color: #fff;
+	color: #000;
 }
 
 #contact .btn-secondary:hover {
